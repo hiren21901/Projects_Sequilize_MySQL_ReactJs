@@ -1,0 +1,9 @@
+tbody td{
+    /* border-bottom-width: 1 !important; */
+border-bottom: 0.5px !important;
+border-style: solid !important;
+border-color: #dee2e6 !important;
+}
+[class*=sidebar-dark-] {
+    background-color: #4b5354;
+}
